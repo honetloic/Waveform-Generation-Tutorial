@@ -45,6 +45,10 @@ pip install fastemriwaveforms
 ```
 (see [installation guidelines](https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms)).
 
-Finally, make sure you have some way of running interactive notebooks. You may want to install [jupyter](https://jupyter.org/install) as well as [VScode](https://code.visualstudio.com) as a code editor.
+Finally, make sure you have some way of running interactive notebooks. You may want to install a jupyter kernel
+```bash
+pip install ipykernel
+```
+([installation guidelines](https://jupyter.org/install)) as well as [VScode](https://code.visualstudio.com) as a code editor.
 
 With all of this, you are now ready to tackle the third GW exercise session.
